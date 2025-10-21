@@ -4,7 +4,7 @@
   "description": "This project mainly issues the concern faced by the students who are not able to understand which exam they should give and which exam they should not give and also helping them ot search for university.",
   "main": "index.js",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "scripts": {
   "start": "react-scripts start",
